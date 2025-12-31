@@ -5,8 +5,6 @@ toi hoc bai tren lop
 toi di lam viec vao buoi sang
 toi di ngu vao buoi toi
 toi thich nghe nhac
-toi thich xem phim
-toi thich di du lich
 toi thich choi the thao
 toi thich hoc tap
 toi yeu gia dinh cua toi
@@ -16,3 +14,5 @@ toi yeu dat nuoc toi
 toi yeu thien nhien
 toi yeu am nhac
 toi yeu van hoa cua dat nuoc toi
+
+toi them dong nay ow local
